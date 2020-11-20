@@ -1,0 +1,2298 @@
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jaloo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "1" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jaloo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Kelcy De Carolis" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "19276" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Cogilith> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "2" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Cogilith" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ara Karpychev" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "2969" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Wordpedia> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "3" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Wordpedia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Nert Bullene" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "50434" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skipfire> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "4" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skipfire" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Inessa Arundell" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "2386" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Kayveo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "5" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Kayveo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Brenn Jacquemard" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "43276" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Photofeed> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "6" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Photofeed" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ava Eskriet" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "28652" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Livefish> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "7" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Livefish" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Isabella Melby" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "32923" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jabberstorm> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "8" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jabberstorm" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Oralie Olivetta" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "52231" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Vimbo> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Vimbo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Joly Lamey" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "88331" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "9" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Trudoo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "10" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Trudoo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Robinet Valentinetti" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "95396" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skipstorm> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "11" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skipstorm" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Abby Woodward" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "82101" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jayo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "12" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jayo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Burk Davidou" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "47189" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yakijo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "13" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yakijo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Abbie Paolozzi" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "65379" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Meemm> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "14" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Meemm" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Kimberly Dykins" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "62842" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Vitz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "15" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Vitz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Marcia Elstub" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "36007" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yotz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "16" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yotz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Cherilyn Rickford" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "91652" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Zoovu> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "17" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Zoovu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Dorothea Purches" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "54369" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Gevee> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "17397" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Tessy Tavener" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Gevee" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "18" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Kwilith> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "19" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Kwilith" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jennette Champness" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "92667" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Abata> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "20" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Abata" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Marie-ann Pasticznyk" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "20602" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Kazu> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "21" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Kazu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Roda Libby" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "76917" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Layo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "22" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Layo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Hercule Curme" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "16646" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Bubbletube> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "23" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Bubbletube" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jennifer De Cristoforo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "84344" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Topicware> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Loralyn Choke" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "24" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Topicware" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "63674" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Flipstorm> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "25" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Flipstorm" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Bethanne Kreuzer" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "17994" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Bluejam> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "26" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Bluejam" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Merrel Merrell" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "82155" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Mynte> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Gwyn MacDermand" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Mynte" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "27" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "50948" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Topicblab> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "28" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Topicblab" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Myrvyn Gindghill" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "79898" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Wikizz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "29" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Wikizz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Freda Chillistone" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "29275" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Browsedrive> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "30" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Browsedrive" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Nadean Menel" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "36727" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Youspan> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "18725" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Shurlocke Danby" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Youspan" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "31" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Roomm> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "32" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Roomm" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Elnora Boddice" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "59953" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jabbertype> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "33" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jabbertype" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Raynor Grichukhin" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "21403" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Trilith> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Valentina Lister" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "34" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Trilith" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "11228" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Kwideo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "35" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Kwideo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Salmon Broadberrie" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "40461" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Realbuzz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "36" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Realbuzz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Amelita Lowe" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "82135" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Nlounge> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "37" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Nlounge" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Laural Ranscombe" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "42012" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Demimbu> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "38" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Demimbu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Mathian Zanitti" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "68463" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jamia> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "39" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jamia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jabez Billion" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "68101" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Voonder> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "40" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Voonder" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ammamaria Simms" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "19177" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Edgeify> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "41" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Edgeify" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Barnabe Ferries" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "97991" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Blogpad> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "42" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Blogpad" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Perceval Brazel" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "49513" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Shufflebeat> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "43" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Shufflebeat" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Michaella Winsome" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "32128" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Ainyx> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "44" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Ainyx" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Sollie Ceaplen" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "6476" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skyble> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "45" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skyble" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Mara Brugger" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "30926" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Browsecat> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "46" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Browsecat" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Kim Coales" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "57065" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Twimm> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "47" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Twimm" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Fredia Fonzone" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "71471" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Reallinks> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "48" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Reallinks" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jessamyn Esch" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "63174" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Voolia> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "49" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Voolia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Rufus Siddle" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "34904" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Trudeo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "50" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Trudeo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Angelika Minero" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "84508" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Twimbo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "51" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Twimbo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Yance Petri" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "3296" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Snaptags> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "52" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Snaptags" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Fawnia Leser" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "55121" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Demizz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "53" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Demizz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Mommy Davidovitz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "38400" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Fliptune> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "54" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Fliptune" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Leyla Brasted" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "74317" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Devbug> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "55" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Devbug" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Donnamarie Shemilt" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "35576" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Talane> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "56" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Talane" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Garey Pickring" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "64593" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Izio> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "57" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Izio" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Happy Bread" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "2888" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skinder> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "58" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skinder" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Marthe Sharply" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "5869" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Kwimbee> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "59" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Kwimbee" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Valina Cleghorn" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "28356" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Ntags> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "60" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Ntags" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Monti Shelper" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "98242" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jetwire> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "15437" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Twyla Schuricht" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jetwire" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "61" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Voolith> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "32286" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Isak Oggers" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Voolith" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "62" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Ozu> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "63" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Ozu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Maureen Cholonin" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "32472" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Zooxo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "64" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Zooxo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Gaylord Broadbent" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "29316" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Quatz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "65" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Quatz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Edin Aristide" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "8726" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skiba> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skiba" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "66" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "50158" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Sissy Meekings" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Tambee> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "67" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Tambee" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jamison Hartwell" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "77769" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Browsetype> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "68" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Browsetype" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jessalin Jovis" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "7572" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Meevee> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "69" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Meevee" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Duky Herculeson" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "66854" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Dabjam> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "70" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Dabjam" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Elise Brisse" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "41832" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skyvu> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Pepillo Guage" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "71" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skyvu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "44986" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Youfeed> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "72" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Youfeed" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Stefano Fulcher" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "93794" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jetpulse> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "73" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jetpulse" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Lucho Wigglesworth" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "49850" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skyndu> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "74" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skyndu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Charissa Dearle-Palser" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "4003" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Avaveo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "75" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Avaveo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Lucian Coomes" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "34377" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Dabshots> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "76" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Dabshots" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Heida Swabey" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "40678" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yadel> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "77" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yadel" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Janina Harbidge" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "82487" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Youopia> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "78" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Youopia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Beitris Lamputt" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "78930" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Topicshots> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "79" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Topicshots" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Shelba Saterthwait" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "14292" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Edgeclub> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "80" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Edgeclub" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Myrle Brewster" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "78440" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/InnoZ> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "73570" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "81" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "InnoZ" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Winny Bullivant" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Trupe> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "82" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Trupe" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Edeline Prestner" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "41545" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Wikivu> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "83" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Wikivu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Marlee Frisby" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "84736" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Mita> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "84" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Mita" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Imelda Questier" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "31482" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Tagpad> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "85" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Tagpad" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Kaitlyn Poundford" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "31864" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Eadel> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "86" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Eadel" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Sherwin Grovier" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "96885" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Wikido> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "87" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Wikido" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Chuck Massow" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "72299" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Babbleblab> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "88" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Babbleblab" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Aloysius Littlechild" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "92758" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Zoombeat> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "59591" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "89" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Lelah Stairmand" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Zoombeat" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Zava> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "90" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Zava" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Querida Rubbens" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "30330" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Dynava> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "91" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Dynava" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Errick Pleass" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "82303" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Podcat> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "76184" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Mei Ioannidis" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "92" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Podcat" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Miboo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "93" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Miboo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Farand Barnham" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "79670" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Flipbug> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "15694" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "94" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Flipbug" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Bel Yurocjkin" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Brainlounge> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "95" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Brainlounge" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Margot Lawrenson" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "58635" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Quinu> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Quinu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Wilone Prettyjohn" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "96" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "37483" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Dazzlesphere> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "97" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Dazzlesphere" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Grantham Hattoe" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "54056" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Realpoint> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "98" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Realpoint" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Allie Felstead" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "83583" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Chatterbridge> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "99" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Chatterbridge" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Fredrika Richings" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "12154" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Rhyzio> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "100" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Rhyzio" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Dosi Fronzek" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "19742" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skiptube> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "101" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skiptube" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Axel Beddo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "89741" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Oyoloo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "102" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Oyoloo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Malorie Hollingdale" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "80534" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Eazzy> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "103" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Eazzy" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Melina Dumbleton" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "53446" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Plambee> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "104" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Plambee" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Mercedes Ditts" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "65806" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Shufflester> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "105" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Shufflester" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Lottie Thairs" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "86632" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Fiveclub> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "106" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Fiveclub" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Camellia Villa" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "50328" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Linkbuzz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "107" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Linkbuzz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Emilee Fearfull" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "52402" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Aibox> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "108" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Aibox" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Aldrich Ivanshintsev" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "28061" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Leexo> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "109" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Leexo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Rollins Fairfoull" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "15529" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Photojam> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "110" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Photojam" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Joan Egre" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "14214" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Kimia> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "111" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Kimia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Olivia Candwell" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "80863" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Twinder> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "112" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Twinder" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Lia Leather" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "86231" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Flashdog> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "113" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Flashdog" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ladonna Brandham" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "64539" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Digitube> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "114" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Digitube" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Tibold Ellerton" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "85093" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Zoomzone> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "115" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Zoomzone" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Helaine Shutle" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "58855" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Avamm> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "116" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Avamm" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Reynold Charnock" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "44712" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Divape> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "117" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Divape" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Linc Leahey" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "22147" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skaboo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "118" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skaboo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Rahel McCrudden" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "97384" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Tagcat> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "119" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Tagcat" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Colly Sandry" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "730" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Devpoint> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "120" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Devpoint" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Charlena Copelli" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "65002" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yodoo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "121" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yodoo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jacinda Owen" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "53879" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Wordware> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "122" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Wordware" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Una Prowse" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "57442" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Gabvine> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "123" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Gabvine" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Anthony Lumby" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "97550" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Omba> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "124" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Omba" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Marylynne Bibey" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "81865" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skyba> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "125" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skyba" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Bryana Soloway" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "49005" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Quaxo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "126" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Quaxo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Wilona Oxlee" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "10511" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Twitterwire> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "127" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Twitterwire" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Beverley Leare" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "27585" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Aivee> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "128" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Aivee" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Tamas Duplan" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "66616" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Viva> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "129" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Viva" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jaymie Logan" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "36962" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Katz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "130" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Katz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Avery McKibbin" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "58829" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Twitternation> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "131" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Twitternation" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Leola O'Donovan" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "22598" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Babbleopia> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "132" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Babbleopia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Reiko Findley" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "38822" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Mydo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "133" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Mydo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Camile Garvan" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "59140" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Trunyx> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "134" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Trunyx" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Erma Rhyme" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "1883" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Meedoo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "135" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Meedoo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Coleen Beardsell" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "82097" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Demivee> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Engracia Conrard" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "136" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Demivee" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "27913" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Teklist> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "137" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Teklist" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Zaneta Andreuzzi" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "13490" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Devify> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "138" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Devify" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Nobe Tissiman" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "81209" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Dablist> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "139" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Dablist" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Tracey Prazer" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "83568" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Vinte> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "140" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Vinte" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Debora Easey" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "66797" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Mudo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "141" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Mudo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Daniele Grindle" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "32138" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Zazio> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "142" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Zazio" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Alden Cathersides" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "50875" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Oozz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "143" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Oozz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Wanda Gai" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "92112" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skimia> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "144" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skimia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Josephine Hatchett" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "63273" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Blogtags> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "145" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Blogtags" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Marylynne Elkins" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "90143" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Zooveo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "146" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Zooveo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Davine Spooner" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "23553" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Fadeo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "147" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Fadeo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Kellby Stennard" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "14607" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Buzzster> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "148" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Buzzster" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Anastasie Mullaly" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "56216" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Roodel> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "149" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Roodel" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Danya Altoft" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "9066" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skibox> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "150" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skibox" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Brigid Downie" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "86350" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Wordify> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "151" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Wordify" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Marybelle Chace" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "89526" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yakitri> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "152" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yakitri" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Edita Chantillon" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "31767" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Buzzshare> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "153" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Buzzshare" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Reine Hebblewhite" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "8422" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Dabtype> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "55837" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "154" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Dabtype" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Cosmo Kinglesyd" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Meeveo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "155" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Meeveo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Leontyne Papen" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "99382" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Zoombox> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "156" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Zoombox" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Kania Rannald" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "74741" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Feedmix> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "157" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Feedmix" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Gusta Genike" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "16025" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yacero> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "158" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yacero" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Teresina Ancell" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "32621" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yabox> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "159" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yabox" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Shalne Tupie" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "34859" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Zoonder> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Zaneta Heersema" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "160" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Zoonder" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "60316" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Kazio> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "161" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Kazio" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Isiahi Leney" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "89145" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Zoozzy> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "162" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Zoozzy" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Stephani Marple" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "67283" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Minyx> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Minyx" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Trisha Falla" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "163" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "41495" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Twinte> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "164" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Twinte" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Tybie Cannicott" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "61145" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Feedfire> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "165" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Feedfire" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Lizzy Frean" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "84317" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Pixoboo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "166" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Pixoboo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Vale Jeandeau" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "21152" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Riffpath> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "167" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Riffpath" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Garner Beaves" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "41908" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Mymm> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "168" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Mymm" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Eadie Bermingham" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "83370" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/LiveZ> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "169" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "LiveZ" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Bentlee Jeannenet" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "23228" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Blogspan> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "170" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Blogspan" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Corabel Rosenbloom" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "42565" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/BlogXS> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "171" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "BlogXS" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Constancy Kindell" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "19795" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Oba> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "172" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Oba" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Elisha Grellis" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "15690" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Twiyo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "173" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Twiyo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Eddie Berrisford" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "90720" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/DabZ> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "174" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "DabZ" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Nollie Scarff" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "4514" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Fivebridge> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "175" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Fivebridge" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Tabb Sugars" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "31051" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Feedbug> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "176" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Feedbug" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Calley Ostrich" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "38131" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Kamba> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "177" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Kamba" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Mychal Cosbey" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "98814" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Linkbridge> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "178" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Linkbridge" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Dynah Berzon" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "96591" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Quire> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "179" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Quire" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Bruno Struss" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "95839" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Eabox> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "180" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Eabox" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Robyn Norkutt" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "62629" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Flipopia> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "181" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Flipopia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Bartie Olivello" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "9344" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yozio> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "182" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yozio" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Stacy Hargie" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "43429" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Wikibox> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "183" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Wikibox" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Dacia Gleadhall" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "92222" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Dynabox> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "184" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Dynabox" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Sydelle Young" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "56729" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Kare> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "185" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Kare" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Wendeline Blacklidge" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "49259" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Linklinks> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "186" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Linklinks" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Marilyn Chene" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "8314" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Tagfeed> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "187" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Tagfeed" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Emmi Trustey" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "49149" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Devpulse> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "188" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Devpulse" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Paloma Blackwood" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "63207" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Realbridge> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "189" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Realbridge" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Graig Tonner" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "35966" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Lajo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "190" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Lajo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Patric Top" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "69482" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Oodoo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "191" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Oodoo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Felipe Palfreeman" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "81372" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Eidel> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "192" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Eidel" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Arne Adenot" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "89084" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Centimia> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "193" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Centimia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Rena Wagen" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "14762" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Pixonyx> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "194" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Pixonyx" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Emmi Greaves" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "7668" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Gigashots> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "195" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Gigashots" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Zebulon Goodyer" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "91073" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Livetube> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "196" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Livetube" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Hazel Daftor" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "95936" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Avavee> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "197" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Avavee" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Arri Liddington" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "98914" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Chatterpoint> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "198" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Chatterpoint" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Lonee Kippen" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "14999" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Realfire> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "199" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Realfire" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Aimee Simes" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "14355" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Voonix> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "200" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Voonix" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jsandye Siemon" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "21775" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Fatz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "201" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Fatz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Erma Stockford" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "39309" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Tazz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "202" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Tazz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Pepita MacFarland" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "97122" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jabberbean> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "203" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jabberbean" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Marcy Veighey" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "80676" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Centidel> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "204" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Centidel" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Sidonnie Dradey" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "80761" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Tanoodle> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "205" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Tanoodle" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Gerianne Seilmann" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "86155" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Dabvine> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "206" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Dabvine" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Courtney Bransom" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "91475" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Linktype> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "207" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Linktype" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Brietta Yurlov" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "54455" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Midel> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "208" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Midel" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Tracy Portman" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "21619" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skinix> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "209" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skinix" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ardisj Mutton" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "28736" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Thoughtworks> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "210" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Thoughtworks" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Yolanthe Kenafaque" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "17144" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Photobean> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "211" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Photobean" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Mattie Biswell" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "83842" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Tagchat> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "212" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Tagchat" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Myca Dooman" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "75008" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Feedspan> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "213" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Feedspan" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Gaultiero Ellyatt" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "29278" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Tagopia> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "214" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Tagopia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Garret Amorine" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "65567" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skilith> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "215" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skilith" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ive Couve" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "65534" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skinte> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "216" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skinte" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Lloyd Natt" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "5586" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Edgepulse> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "217" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Edgepulse" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Harriet Heather" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "39969" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Babblestorm> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "218" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Babblestorm" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Gwenore Milberry" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "33289" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Eare> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "219" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Eare" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Susie Berrington" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "54556" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Voomm> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "220" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Voomm" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Winne Schade" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "11291" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Camido> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "221" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Camido" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Matt Oughtright" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "63488" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Vipe> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "222" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Vipe" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Bordie Coonihan" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "9000" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jaxbean> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "223" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jaxbean" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ciro Huertas" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "30586" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Browseblab> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "224" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Browseblab" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Roley Rowan" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "41781" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Wordtune> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "225" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Wordtune" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "North Lavalde" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "64118" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skivee> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "226" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skivee" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Tania Firby" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "56437" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Feednation> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "227" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Feednation" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Benito Sarfatti" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "2209" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Tagtune> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "228" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Tagtune" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Trix Miroy" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "18873" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skidoo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "229" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skidoo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Gena Smiley" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "35346" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yata> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "230" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yata" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Doralyn Wallsam" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "51117" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Zoonoodle> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "231" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Zoonoodle" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Stacey Lonsdale" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "90261" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Eayo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "232" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Eayo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Adriena Raggatt" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "63696" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Bubblemix> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "233" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Bubblemix" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Maure Eusden" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "81918" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Kwinu> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "234" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Kwinu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Brittaney McIver" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "86950" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Rhyloo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "235" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Rhyloo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Elita Breach" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "63465" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skippad> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "236" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skippad" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Maison Kerner" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "37362" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skajo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "237" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skajo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Rhoda Jenkison" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "68793" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Zoomlounge> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "238" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Zoomlounge" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jackquelin MacAirt" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "61267" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Twitterbridge> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "239" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Twitterbridge" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Nancee Salman" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "32791" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Fivespan> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "240" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Fivespan" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Pinchas Carlon" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "94206" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Bubblebox> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "241" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Bubblebox" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Garrot Dominique" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "44170" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Riffpedia> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "242" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Riffpedia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jack Mealand" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "28321" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Thoughtmix> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "243" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Thoughtmix" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Gwenni Ricson" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "52575" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Topicstorm> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "244" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Topicstorm" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Lamont Samples" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "59056" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Buzzbean> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "245" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Buzzbean" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Liana Timbs" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "86823" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Gabcube> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "246" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Gabcube" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Merci Gumb" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "50562" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Thoughtbeat> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "247" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Thoughtbeat" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Mathe Melia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "57710" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jabbersphere> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "248" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jabbersphere" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Charlotta Ceillier" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "54788" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Eamia> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "249" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Eamia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Natala Frensch" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "87345" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Gigaclub> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "250" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Gigaclub" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Pearce Meriguet" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "99587" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Agimba> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "251" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Agimba" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Tamera Pavolillo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "27336" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Edgewire> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "252" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Edgewire" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Rubie Veronique" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "65957" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Oyoyo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "253" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Oyoyo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Marita Lyster" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "44488" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Meetz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "254" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Meetz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Helenelizabeth Gaffey" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "3121" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Shuffletag> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "255" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Shuffletag" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Caria Mellish" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "80819" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Riffwire> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "256" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Riffwire" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Matty Handley" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "89044" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Rooxo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "257" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Rooxo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Mitchael Borres" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "48185" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Thoughtblab> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "258" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Thoughtblab" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jsandye Cuvley" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "23504" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Fanoodle> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "259" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Fanoodle" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Wain Pendergast" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "37612" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skynoodle> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "260" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skynoodle" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Mahalia Drain" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "96306" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Youbridge> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "261" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Youbridge" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Stepha Cayette" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "46406" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Kaymbo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "262" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Kaymbo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Elfie Smoughton" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "54153" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Livepath> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "263" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Livepath" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Broddie Silkstone" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "99062" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Tekfly> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "264" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Tekfly" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Scott O'Ferris" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "45817" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Oyondu> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "265" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Oyondu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Zacharie Boole" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "61993" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Vinder> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "266" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Vinder" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Hadria Ceaser" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "57535" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Ntag> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "267" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Ntag" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Bucky Iskower" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "14712" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Rhycero> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "268" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Rhycero" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Khalil Longson" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "54695" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Skalith> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "269" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Skalith" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Dareen Fessler" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "30144" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Divanoodle> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "270" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Divanoodle" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Nestor Deroche" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "89599" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Npath> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "271" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Npath" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Estrellita Gideon" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "81255" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Photobug> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "272" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Photobug" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ruperto Rowen" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "32923" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Divavu> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "273" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Divavu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jewell Younglove" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "15354" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Leenti> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "274" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Leenti" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Malena Ellcock" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "84282" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Agivu> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "275" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Agivu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Morie Vellden" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "76672" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Tazzy> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "276" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Tazzy" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Angelo Janousek" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "57960" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Quamba> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "277" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Quamba" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Chet Allder" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "55352" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Thoughtstorm> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "278" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Thoughtstorm" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Yehudi Spillett" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "23682" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Eire> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "279" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Eire" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ozzie Kleynen" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "95193" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Buzzdog> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "280" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Buzzdog" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Mendy Knight" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "69161" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Rhynoodle> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "281" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Rhynoodle" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Antonietta Flaverty" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "20111" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Topdrive> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "282" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Topdrive" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Adrianna Jessopp" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "3985" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Meezzy> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "283" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Meezzy" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ara Gherardesci" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "1969" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Oyope> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "284" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Oyope" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Weidar Stokey" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "89314" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Twitterbeat> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "285" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Twitterbeat" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Gwyn Dunn" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "58062" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Mycat> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "286" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Mycat" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Abey Hardi" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "62894" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Janyx> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "287" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Janyx" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Krysta Bruneton" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "8837" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Edgetag> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "288" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Edgetag" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Petunia Arni" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "7646" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Lazzy> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "289" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Lazzy" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Violet Heaslip" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "8109" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Browsebug> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "290" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Browsebug" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Corty Caramuscia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "48442" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Zoomcast> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "291" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Zoomcast" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Janean Carncross" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "74237" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Flashspan> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "292" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Flashspan" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ange Garwill" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "8191" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Innotype> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "293" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Innotype" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Lissa Iashvili" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "24979" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Blognation> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "294" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Blognation" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Gayel McCarver" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "21395" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Devcast> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "295" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Devcast" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Donnell Rampling" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "34531" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Gigazoom> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "296" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Gigazoom" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Magdaia Haime" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "16346" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Devshare> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "297" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Devshare" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Lucina Courteney" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "22413" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Flashset> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "298" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Flashset" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Fergus Couth" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "90662" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Gigabox> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "299" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Gigabox" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ainslie Tsarovic" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "72312" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Babbleset> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "300" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Babbleset" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ned Cambden" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "19154" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Twitterlist> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "301" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Twitterlist" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Tessi Gillhespy" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "51082" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yombu> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "302" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yombu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Shaina Sutherley" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "71578" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yambee> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "303" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yambee" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Garrot Cronchey" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "51773" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Fivechat> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "304" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Fivechat" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ally Biaggioli" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "28526" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Rhynyx> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "305" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Rhynyx" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Borg Moar" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "36853" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Feedfish> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "306" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Feedfish" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Damita Brogden" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "76439" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jazzy> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "307" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jazzy" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Lee Maclean" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "40453" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Oyonder> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "58371" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Garfield Bramsom" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Oyonder" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "308" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Voonyx> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "66773" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "309" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Voonyx" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jarrad Dehm" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yakidoo> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "65978" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Elle Thickens" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "310" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yakidoo" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Camimbo> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Camimbo" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Myrvyn Benoiton" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "311" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "30196" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Realcube> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "46157" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Realcube" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "312" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Lynnea Guirard" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Meejo> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Rem Scarman" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Meejo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "313" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "54062" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Geba> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Orly Winspur" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Geba" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "314" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "37163" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Cogibox> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "88615" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Basia Tickle" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "315" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Cogibox" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Tavu> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Rubina Roggieri" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Tavu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "316" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "70538" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jaxworks> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "317" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jaxworks" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Carlin Ivanikov" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "55333" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Muxo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "318" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Muxo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Vivie Panchen" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "92219" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Twitterworks> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "319" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Twitterworks" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Rena Gresswood" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "67213" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jaxnation> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "320" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jaxnation" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Hermia Slyde" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "38670" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Gabtune> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "321" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Gabtune" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Euphemia Lavallie" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "75522" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Brightdog> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "322" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Brightdog" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Christoph Pavey" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "74596" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Eimbee> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "323" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Eimbee" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Dotti Spridgeon" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "64980" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Myworks> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "324" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Myworks" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Maegan Waulker" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "56292" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Dabfeed> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "325" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Dabfeed" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Evy Harper" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "73876" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Realmix> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "326" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Realmix" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Orazio MacCarroll" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "98729" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Mydeo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "327" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Mydeo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Bernadette Pastor" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "68117" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Ailane> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "328" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Ailane" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Fernanda Bouldstridge" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "97917" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Meembee> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "329" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Meembee" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Pattie Murtimer" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "59931" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Kanoodle> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "330" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Kanoodle" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Edie Scarbarrow" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "59617" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Brainverse> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "331" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Brainverse" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Karisa Killbey" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "91523" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Vidoo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "332" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Vidoo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Trista Hugonneau" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "52125" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Oyoba> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "333" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Oyoba" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Leonerd Daingerfield" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "81948" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Einti> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "334" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Einti" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ricard Breton" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "14893" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Zoomdog> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "335" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Zoomdog" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jessamyn McGaughay" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "74287" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Pixope> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "336" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Pixope" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Melloney Alasdair" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "60362" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Innojam> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "337" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Innojam" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Davin Coulson" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "64043" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Plajo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "338" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Plajo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Baron Hallitt" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "48290" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Dynazzy> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "339" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Dynazzy" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Bertrand Belhome" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "25977" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Voonte> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "340" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Voonte" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Madelena Brucker" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "91758" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Brainsphere> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "17833" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Delainey Girardeau" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "341" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Brainsphere" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Roombo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "15259" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "342" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Dana Perillo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Roombo" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jatri> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "88076" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "343" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jatri" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Bran Le Fevre" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Flashpoint> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "344" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Flashpoint" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ingram Fouldes" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "36800" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Latz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "345" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Latz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Olag Anderer" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "95290" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Thoughtsphere> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "346" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Thoughtsphere" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Theodor Balmadier" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "72246" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Aimbo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "347" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Aimbo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Rahel Galbraeth" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "32669" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yamia> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "348" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yamia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Bertram Pettett" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "49737" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Bluezoom> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "349" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Bluezoom" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Temp Connealy" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "53416" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Blogtag> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "350" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Blogtag" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Avery O'Cullinane" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "62226" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Brightbean> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "351" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Brightbean" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Griselda Pretti" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "96671" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Topiclounge> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "352" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Topiclounge" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Raeann Hassall" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "13234" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Realblab> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "353" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Realblab" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Vittoria Holttom" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "19497" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Mybuzz> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Brenna Fazackerley" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Mybuzz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "354" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "31593" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jaxspan> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jaxspan" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "355" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Birdie Gabriely" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "40334" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Rhybox> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "356" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Rhybox" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Ferne Trippitt" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "62279" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Photolist> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "357" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Photolist" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Clemmie Penreth" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "69893" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Topiczoom> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "358" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Topiczoom" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Joellyn Bramford" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "95302" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Youtags> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "359" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Youtags" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Vernen Marnane" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "95397" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Quimba> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "360" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Quimba" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Freda Barbrick" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "60796" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yoveo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "361" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yoveo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Rochelle Sidwick" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "73534" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Lazz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "362" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Lazz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Isabeau Seymour" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "7922" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Jabbercube> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Jabbercube" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "363" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Marcile Hart" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "3159" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Browsezoom> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "364" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Browsezoom" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Staci Skarr" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "56886" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/JumpXS> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "365" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "JumpXS" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Sidnee MacGuffie" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "94288" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yodo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "366" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yodo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Susannah Featherstonhaugh" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "53312" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Avamba> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "367" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Avamba" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Garreth Westall" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "59254" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Brainbox> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "368" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Brainbox" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Jeffie Maase" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "2122" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Photospace> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "369" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Photospace" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Margery Maso" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "83990" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Oloo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "370" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Oloo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Shell Arndell" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "55648" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Gabtype> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "371" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Gabtype" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Spike Cuphus" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "31219" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Aimbu> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "372" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Aimbu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Elayne Sharrem" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "37731" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Shuffledrive> <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "373" ;
+	a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Shuffledrive" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Johnna Messier" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "77925" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Thoughtbridge> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "374" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Thoughtbridge" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Thayne Greenhaugh" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "33082" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Abatz> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "375" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Abatz" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Marne Leonarde" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "11444" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Cogidoo> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "376" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Cogidoo" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Tamra Barthrup" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "9888" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Gabspot> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "377" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Gabspot" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Mignon Bunting" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "86641" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Quimm> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "378" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Quimm" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Clementine McKirdy" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "81438" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Trilia> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "379" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Trilia" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Claudia Greir" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "96107" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Yodel> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "380" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Yodel" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Felicdad Pennington" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "10254" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Edgeblab> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "381" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Edgeblab" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Wang Bullas" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "85218" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Ooba> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "382" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Ooba" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Alfi Pervoe" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "40062" .
+
+<http://www.semanticweb.org/SER531/ontologies/Team-7/Centizu> a <http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#Company> ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_id> "383" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#company_name> "Centizu" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#ceo_name> "Madalena Baudinet" ;
+	<http://www.semanticweb.org/SER531/ontologies/Team-7/Companies#number_of_employees> "62597" .

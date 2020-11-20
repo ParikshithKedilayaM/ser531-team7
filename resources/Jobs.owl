@@ -1,0 +1,406 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#"
+     xml:base="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#belongs_to_industry -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#belongs_to_industry">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Job"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Industry"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#located_in -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#located_in">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Job"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobLocation"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#posted_by -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#posted_by">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Job"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobCompany"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#type -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#type">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Job"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobType"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#application_link -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#application_link">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Job"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#company_name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#company_name">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobCompany"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#has_description -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#has_description">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Job"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#has_salary -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#has_salary">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Job"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#has_title -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#has_title">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Job"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#location_name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#location_name">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobLocation"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#posted_on -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#posted_on">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Job"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Accounting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Accounting">
+        <owl:equivalentClass rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Finance"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Industry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Education -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Education">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Industry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Finance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Finance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Industry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Fulltime -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Fulltime">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobType"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Health_Care -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Health_Care">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Industry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Industry -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Industry"/>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Information_Technology -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Information_Technology">
+        <owl:equivalentClass rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Software"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Industry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Insurance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Insurance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Industry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Internship -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Internship">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobType"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Job -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Job">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#belongs_to_industry"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Industry"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#located_in"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobLocation"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#posted_by"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobCompany"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#type"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobType"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#has_description"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#has_salary"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#has_title"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#posted_on"/>
+                <owl:cardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:cardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#application_link"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobCompany -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobCompany">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#company_name"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobLocation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobLocation">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#location_name"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onDataRange rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobType -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobType"/>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Manufacturing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Manufacturing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Industry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Parttime -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Parttime">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobType"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Retail -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Retail">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Industry"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Software -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Software">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Industry"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Accounting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Education"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Health_Care"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Insurance"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Manufacturing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Retail"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Software"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Fulltime"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Internship"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Parttime"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Industry"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#Job"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobCompany"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobLocation"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/SER531/ontologies/Team-7/Jobs#JobType"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
