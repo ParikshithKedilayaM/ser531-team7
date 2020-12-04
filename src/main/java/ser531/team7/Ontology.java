@@ -18,11 +18,15 @@ public class Ontology {
 	private static final String PROPERTIES_FILE_NAME = "app.properties";
 	private Logger log;
 	private Properties properties;
+	private String env = "";
 
 	public Ontology() {
 		log = LogManager.getLogger(this);
 		properties = new Properties();
 		readProperties();
+		if (properties.getProperty("env").equalsIgnoreCase("DEV")) {
+			env = "dev.";
+		}
 	}
 
 	public static void main(String[] args) {
@@ -63,7 +67,7 @@ public class Ontology {
 		try {
 			query = QueryFactory.create(SparqlQuery.QUERY_READ_ALL_JOBS);
 
-			qe = QueryExecutionFactory.sparqlService(properties.getProperty("server1.url"), query);
+			qe = QueryExecutionFactory.sparqlService(properties.getProperty(env + "server.jobs"), query);
 
 			ResultSet results = qe.execSelect();
 
@@ -94,7 +98,7 @@ public class Ontology {
 		try {
 			query = QueryFactory.create(SparqlQuery.QUERY_READ_ALL_JOBS);
 
-			qe = QueryExecutionFactory.sparqlService(properties.getProperty("server2.url"), query);
+			qe = QueryExecutionFactory.sparqlService(properties.getProperty(env + "server.jobs"), query);
 
 			ResultSet results = qe.execSelect();
 
@@ -125,7 +129,7 @@ public class Ontology {
 		try {
 			query = QueryFactory.create(SparqlQuery.QUERY_READ_ALL_JOBS);
 
-			qe = QueryExecutionFactory.sparqlService(properties.getProperty("server3.url"), query);
+			qe = QueryExecutionFactory.sparqlService(properties.getProperty(env + "server.jobs"), query);
 
 			ResultSet results = qe.execSelect();
 
@@ -152,14 +156,17 @@ public class Ontology {
 	public void locationBasedSearch() {
 		QueryExecution qe = null;
 		Query query = null;
+		String jobsURL = properties.getProperty(env + "server.jobs");
+		String locationsURL = properties.getProperty(env + "server.locations");
+		String companiesURl = properties.getProperty(env + "server.companies");
 
 		try {
-			query = QueryFactory.create(SparqlQuery.LOCATION_BASED_SEARCH);
+			query = QueryFactory.create(String.format(SparqlQuery.LOCATION_BASED_SEARCH, locationsURL, companiesURl, jobsURL));
 
-			qe = QueryExecutionFactory.sparqlService(properties.getProperty("server3.url"), query);
+			qe = QueryExecutionFactory.sparqlService(jobsURL, query);
 
 			ResultSet results = qe.execSelect();
-
+			
 			while (results.hasNext()) {
 				QuerySolution row = results.next();
 				String subject = row.get("company_name") != null ? row.get("company_name").toString() : "NULL";
